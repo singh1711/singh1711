@@ -11,7 +11,7 @@ I am a passionate Full Stack web developer working on MERN Stack, driven by a cu
 - 📝 I have learnt Full Stack web development from Coding Blocks.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,nodejs,express,mongodb,mysql,postman,react)]
 
 ## 🌱 Currently Exploring
 
