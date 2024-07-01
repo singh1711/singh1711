@@ -27,7 +27,7 @@ I am a passionate Full Stack web developer working on MERN Stack, driven by a cu
 
  **Connect with me on:**
 - [Linkedin](https://www.linkedin.com/in/abhishek-kumar1711/)
-- [Gmail](abhishek.singh171197@gmail.com)
+- [Gmail][abhishek.singh171197@gmail.com}
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
