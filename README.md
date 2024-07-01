@@ -2,6 +2,9 @@
 
 I am a passionate Full Stack web developer working on MERN Stack, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
+![singh1711's Stats](https://github-readme-stats.vercel.app/api?username=singh1711&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+
 ## 🚀 About Me
 
 - 🔭 I'm currently looking for a full stack web developer position on MERN stack.
